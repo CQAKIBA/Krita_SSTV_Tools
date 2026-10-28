@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=sstv_toolbox
+X-Python-2-Compatible=false
+Name=SSTV Toolbox (Prototype)
+Name[ja]=SSTVツールボックス（試作版）
+Comment=Make SSTV images with a dockable toolbox and submit them to an IPP server
+Comment[ja]=SSTV画像制作とIPP送信用のドッキングツールボックス
