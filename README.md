@@ -2,10 +2,14 @@
 
 Kritaの右側やフローティングウィンドウに「SSTVツールボックス」を追加する**非公式**のPythonプラグインです。Krita本体・開発チームの公式配布物ではありません。MMSSTVなどで行うような写真・文字の組み立てを、Kritaの編集機能を使って簡単に行うことが目的です。
 
+## ダウンロード
+
+**[Kritaインポート用 ZIP (v0.1.5)](https://github.com/CQAKIBA/Krita_SSTV_Tools/raw/refs/heads/main/sstv_toolbox_krita_v0.1.5.zip)**（解凍しないでください）
+
 ## インストール / v0.1.4からの更新
 
 1. 作業中の画像を `.kra` 形式で保存して、Kritaを終了／必要なら再起動する準備をしてください。
-2. `sstv_toolbox_krita_v0.1.5.zip` をダウンロード（解凍不要）。
+2. [sstv_toolbox_krita_v0.1.5.zip](https://github.com/CQAKIBA/Krita_SSTV_Tools/raw/refs/heads/main/sstv_toolbox_krita_v0.1.5.zip) をダウンロード（解凍不要）。
 3. Kritaの **ツール → スクリプト → Pythonプラグインをインポート** からZIPを指定。
 4. 既存プラグインの上書きを承認し、**Kritaを再起動**。
 5. 必要なら **設定 → Kritaの設定を変更 → Pythonプラグインマネージャ** から有効化し再起動。**設定 → ドッキングパネル → SSTVツールボックス** から表示。
